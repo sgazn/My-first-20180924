@@ -1,0 +1,5 @@
+git status
+git commit
+git cimmit -m "context or program or not"
+
+git push
